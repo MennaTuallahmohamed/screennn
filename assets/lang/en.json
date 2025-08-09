@@ -1,0 +1,13 @@
+{
+  "hello": "Hello",
+  "change_language": "Change Language",
+  "welcome": "Welcome",
+  "select_language": "Please choose a language",
+  "enter_screen_name": "Please enter the screen name",
+  "name_screen": "Name Screen",
+  "load_ads": "Loading Advertise",
+  "no_ads": "No Available Advertise",
+  "reload_ads": "Reload Advertise",
+"ok": "ok"
+
+}
