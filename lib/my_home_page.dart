@@ -42,7 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
     // الانتقال إلى شاشة العرض
     Navigator.of(context).push(
       MaterialPageRoute(
-        builder: (context) => const ProfessionalDisplayScreen(),
+        builder: (context) =>  AdminDashboardScreen(),
       ),
     );
   }
